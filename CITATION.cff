@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this repository when referring to the technical artefacts or validation baselines."
+title: "Intelligent Robotics Design Project Evidence: autonomous maze navigation and ultrasonic mapping"
+type: software
+authors:
+  - family-names: "Raj"
+    given-names: "Shubham"
+repository-code: "https://github.com/shubhamraj-ai/intelligent-robotics-design-project-evidence"
+url: "https://github.com/shubhamraj-ai/intelligent-robotics-design-project-evidence"
+version: "1.0.0"
+date-released: "2026-11-21"

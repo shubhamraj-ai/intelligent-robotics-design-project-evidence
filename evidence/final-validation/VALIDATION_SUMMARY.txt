@@ -1,0 +1,15 @@
+FINAL TECHNICAL PACKAGE VALIDATION - CURRENT ARCHIVE
+
+The repository copies of the seven technical deliverables were verified byte-for-byte against the frozen local project folder on 13 November 2026.
+
+Current seven-file SHA-256 values are recorded in FINAL_7_FILES_SHA256.csv.
+
+navigation.py includes the author's later human-readable comment wording. Comparison against the validated V2 source found no changes to movement constants, thresholds, navigation conditions or executable control statements; the observed structural difference was comment/docstring wording only. The current file compiles successfully.
+
+robotcontrol.py and navigation.py compile successfully with the project Python environment.
+
+The final sensor dataset contains 499 rows with one terminal_stop row and the approved 10-column schema.
+
+The final MATLAB mapping code had previously been validated against the promoted sensor dataset and produced the preserved maze reconstruction image.
+
+The frozen local project folder was not modified during GitHub archiving.
